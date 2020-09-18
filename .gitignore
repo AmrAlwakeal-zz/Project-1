@@ -3,7 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+[Rr]esources/
+[Nn]ew_clean_spotify/
 # Other files and folders
 .settings/
 
